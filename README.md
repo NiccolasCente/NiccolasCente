@@ -3,6 +3,11 @@
 - 🔭 Nowadays I'm working as a freelancer front-end developer.
 - 🌱 I'm learning Python and SQL at same time.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiccolasCente&show_icons=true&theme=highcontrast) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiccolasCente&layout=compact&theme=highcontrast)
+
+
 ## Languages/Libraries and Frameworks that I use most:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
