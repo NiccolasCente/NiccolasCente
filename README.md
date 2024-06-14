@@ -1,7 +1,7 @@
 # Hello World! I'm Niccolas! Nice to meet you all!
 
 - 🔭 Nowadays I'm working as a freelancer front-end developer.
-- 🌱 I'm learning Python and SQL at same time.
+- 🌱 I'm learning Python.
 - 💻 And for last, I will leave a link for my personal website. This website contains my works:
   [https://niccolascentedevelopments.netlify.app/]
 
@@ -22,7 +22,6 @@
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bootstrap" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="MySQL" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 
 </div>  
 
