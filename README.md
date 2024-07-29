@@ -1,4 +1,5 @@
-# Hello World! I'm Niccolas! Nice to meet you all!
+# Hello World! I'm Niccolas! Nice to meet you all!!
+
 
 - 🔭 Nowadays I'm working as a freelancer front-end developer.
 - 🌱 Studying information systems.
@@ -21,8 +22,7 @@
   <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bootstrap" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="MySQL" height="70" width="70" src="https://camo.githubusercontent.com/e8a5f4b9b8dd4744587a8107387603fcee2dfae96a34f75a867641bcea088113/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667">
-
-
+ <img align="center" alt="Figma" height="50" width="50" src="https://github.com/user-attachments/assets/e6c3a940-d939-4dcb-941d-6986ed8774f4">
 </div>  
 
 ## My Social Medias:
