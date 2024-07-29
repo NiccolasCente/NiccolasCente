@@ -6,11 +6,9 @@
   [https://niccolascentedevelopments.netlify.app/]
 
 <div align="center">
-<a href=""><img src="https://github-readme-stats.vercel.app/api?username=NiccolasCente&show_icons=true&theme=highcontrast" alt="Niccolas Stats" /></a>
-</div>
-<br />
-<div align="center">
-<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiccolasCente&layout=compact&theme=highcontrast" alt="Niccolas Stats" /></a>
+  <a href="https://github.com/pedrosbdv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NiccolasCente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiccolasCente&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
