@@ -1,7 +1,7 @@
 # Hello World! I'm Niccolas! Nice to meet you all!
 
 - 🔭 Nowadays I'm working as a freelancer front-end developer.
-- 🌱 I'm learning Python.
+- 🌱 Studying information systems.
 - 💻 And for last, I will leave a link for my personal website. This website contains my works:
   [https://niccolascentedevelopments.netlify.app/]
 
