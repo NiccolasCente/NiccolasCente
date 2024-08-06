@@ -3,7 +3,7 @@
 
 - 🔭 Nowadays I'm working as a freelancer front-end developer.
 - 🌱 Studying information systems.
-- 💻 And for last, I will leave a link for my personal website. This website contains my works:
+- 💻 And for last, I will leave a link for my personal website. This website contains my works:<br>
   [https://niccolascenteportfolio.netlify.app/]
 
 <div align="center">
