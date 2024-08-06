@@ -1,10 +1,10 @@
 # Hello World! I'm Niccolas! Nice to meet you all!!
 
-
 - 🔭 Nowadays I'm working as a freelancer front-end developer.
 - 🌱 Studying information systems.
 - 💻 And for last, I will leave a link for my personal website. This website contains my works:<br>
-  [https://niccolascenteportfolio.netlify.app/]
+  <a href="https://niccolascenteportfolio.netlify.app/" target="_blank">https://niccolascenteportfolio.netlify.app/</a>
+
 
 <div align="center">
   <a href="https://github.com/NiccolasCente">
