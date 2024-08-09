@@ -21,7 +21,9 @@
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bootstrap" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
- <img align="center" alt="Figma" height="50" width="50" src="https://github.com/user-attachments/assets/e6c3a940-d939-4dcb-941d-6986ed8774f4">
+  <img align="center" alt="Figma" height="50" width="50" src="https://github.com/user-attachments/assets/e6c3a940-d939-4dcb-941d-6986ed8774f4">
+  <img align="center" alt="Vite.js" height="50" width="50" src="https://github.com/user-attachments/assets/7ffd404f-78a1-4154-b6cb-a836a0a0fecc">
+
 </div>  
 
 ## My Social Medias:
