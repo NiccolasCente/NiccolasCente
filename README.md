@@ -15,15 +15,13 @@
 
 ## Languages/Libraries and Frameworks that I use most:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bootstrap" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Figma" height="50" width="50" src="https://github.com/user-attachments/assets/e6c3a940-d939-4dcb-941d-6986ed8774f4">
-  <img align="center" alt="Vite.js" height="50" width="50" src="https://github.com/user-attachments/assets/7ffd404f-78a1-4154-b6cb-a836a0a0fecc">
-
+  <img align="center" alt="Bootstrap" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Figma" height="40" width="40" src="https://github.com/user-attachments/assets/e6c3a940-d939-4dcb-941d-6986ed8774f4">
+  <img align="center" alt="Vite.js" height="40" width="40" src="https://github.com/user-attachments/assets/7ffd404f-78a1-4154-b6cb-a836a0a0fecc">
 </div>  
 
 ## My Social Medias:
