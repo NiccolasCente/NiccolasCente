@@ -1,28 +1,13 @@
-# Hello World! I'm Niccolas! Nice to meet you all!!
+Hi! My name is Niccolas Cente 😄
+========================================================================================================================================
 
-- 🔭 Nowadays I'm working as a freelancer front-end developer.
-- 🌱 Studying information systems.
-- 💻 And for last, I will leave a link for my personal website. This website contains my works:<br>
-  <a href="https://niccolascenteportfolio.netlify.app/" target="_blank">https://niccolascenteportfolio.netlify.app/</a>
+🌍  I am a Front-End Developer based in São Paulo, Brasil.
+<br/>
 
+### Skills
 
-<div align="center">
-  <a href="https://github.com/NiccolasCente">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NiccolasCente&show_icons=true&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiccolasCente&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-
-
-## Languages/Libraries and Frameworks that I use most:
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bootstrap" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Figma" height="40" width="40" src="https://github.com/user-attachments/assets/e6c3a940-d939-4dcb-941d-6986ed8774f4">
-  <img align="center" alt="Vite.js" height="40" width="40" src="https://github.com/user-attachments/assets/7ffd404f-78a1-4154-b6cb-a836a0a0fecc">
-</div>  
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,vite)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=bootstrap,figma)](https://skillicons.dev) 
+<br/>
 
 ## My Social Medias:
 <div>
