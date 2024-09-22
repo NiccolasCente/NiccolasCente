@@ -1,7 +1,7 @@
 Hi! My name is Niccolas Cente 😄
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in São Paulo, Brasil.
+🌍  I am a Front-End Developer based in São Paulo, Brazil.
 <br/>
 
 ### Skills
