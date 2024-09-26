@@ -4,10 +4,21 @@ Hi! My name is Niccolas Cente 😄
 🌍  I am a Front-End Developer based in São Paulo, Brazil.
 <br/>
 
-### Skills
+## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,vite)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=bootstrap,figma)](https://skillicons.dev) 
+<div>
+  <div>
+    <a href="https://github.com/NiccolasCente">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NiccolasCente&show_icons=true&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiccolasCente&layout=compact&langs_count=7&theme=synthwave"/>
+  <br><br/>
+  </div>
+</div>
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  [![My Skills](https://skillicons.dev/icons?i=react,vite)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=bootstrap,figma)](https://skillicons.dev) 
 <br/>
+
 
 ## My Social Medias:
 <div>
