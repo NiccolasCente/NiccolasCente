@@ -17,6 +17,8 @@ Hi! My name is Niccolas Cente 😄
 
   [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   [![My Skills](https://skillicons.dev/icons?i=react,vite)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=bootstrap,figma)](https://skillicons.dev) 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![My Skills](https://skillicons.dev/icons?i=wordpress,elementor)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 
 
